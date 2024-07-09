@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background-color: #000;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+.container {
+    padding: 20px;
+}
+.section {
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.section h2 {
+    color: #000;
+}
+.profile-image {
+    text-align: center;
+}
+.profile-image img {
+    width: 200px;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+.footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #000;
+    color: white;
+}
+#imgmm{
+    width: 250px;
+    height: 250px;
+    
+    border-radius: 50%;
+}
+#ri{
+    background-color: aquamarine;
+}
+#p1{
+    background-color: aquamarine;
+    color: #333;
+}
+#ul1{
+    background-color: rgb(162, 97, 129);
+}
+#p2{
+    background-color: rgb(28, 52, 75);
+    color: white;
+}
+#div1{
+    background: fixed;
+
+
+}
+#riz{
+    background-image: url(https://cdn.britannica.com/47/140347-050-9A2E0B0A/Cristiano-Ronaldo-Portugal-ball-World-Cup-2010-September-9-2009.jpg?w=300);
+}
